@@ -9,7 +9,6 @@ I will try to follow the convention of naming  Shortend commands as the combinat
 
 | Shortend command| original command| description |
 | --------------- | --------------- |-------------|
-| e | exit | exit the terminal |      
 | nd | nordvpn d | disconnects from nord vpn |
 | ns | nordvpn status | checks if you are connected to nordvpn |
 | ncf | nordvpn connect Fr | connects to a france vpn|
