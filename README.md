@@ -12,3 +12,4 @@ I will try to follow the convention of naming  Shortend commands as the combinat
 | nd | nordvpn d | disconnects from nord vpn |
 | ns | nordvpn status | checks if you are connected to nordvpn |
 | ncf | nordvpn connect Fr | connects to a france vpn|
+| gs |  git status|  checks for git changes |
